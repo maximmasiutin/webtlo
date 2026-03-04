@@ -1,4 +1,4 @@
-FROM alpine:3.17 AS base
+FROM alpine:3.23.3 AS base
 
 # environment
 ENV TZ="Europe/Moscow"
